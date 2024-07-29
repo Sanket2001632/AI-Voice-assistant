@@ -2,7 +2,7 @@ Hiesenberg is an AI personal voice assistant service built using Pychram. It can
 
 When the user specify the appropriate trigger words , The G-One gets activated and executes the user commands.
 
-AI Voice assistant:"Loading your personal Hieseberg.... Hello, Good Morning" (Greets the user according to time)
+AI Voice assistant:"Loading your personal Hiesenberg.... Hello, Good Morning" (Greets the user according to time)
 
 The implemented Voice assistant can perform the following tasks:
 Opens a wepage : Youtube , G-Mail , Google Chrome , StackOverflow
